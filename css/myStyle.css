@@ -1,0 +1,75 @@
+/*
+#1 Generic
+*/
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+/*
+#2 All pages
+*/
+#page_title{
+    display:inline;
+}
+
+/*
+#3 Donation pages
+*/
+.legend {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+
+.checkbox-version {
+    display:inline;
+}
+
+.title-version{
+    display:inline;
+}
+
+#search {
+    display:inline;
+    width: 50%;
+}
+
+.chart {
+    position: relative ;
+    left: -15px;
+}
+
+#alert-zone {
+    display:none;
+}
+
+/*
+#4 Creation page
+*/
+
+.stat-row .stat-column{
+    width: 32%;
+    display: inline-block;
+}
+
+.stat-row label{
+   text-align: center;
+}
+
+#btn-creation-save{
+    float:right;
+}
